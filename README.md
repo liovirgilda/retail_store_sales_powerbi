@@ -43,3 +43,47 @@ project-folder/
 | CSV           | Data source format               |
 | DAX           | Calculations                     |
 | Power Query   | Data cleaning & transformation   |
+
+## 📈 Key Features of the Dashboard
+
+- Interactive filters for January, February and March months
+- Cards with Sum of Revenue and Multi-Row card to show top 3 units sold
+- Bar, line, and donut pie visuals to show comparisons and trends
+
+## 💡 Key Insights
+
+Summarize:
+
+- The total revenue in the first quarter of 2025 was £785,370.00.
+- Store B sold the highest number of units (445), generating £280,320.00, which is equivalent to 35.69% of total revenue.
+- The Laptops product category generated the highest revenue—£330,700.00, equivalent to 42.11% of total revenue.
+- The top 3 units sold in Q1 2025 were Galaxy Tab, Chargers, and Samsung S23.
+- The peak revenue was £347,780.00 in February, followed by a 28% drop in March to £249,560.00.
+
+## 📸 Screenshots
+
+Dashboard:
+
+![Sales Overview](retail_store_sales_dashboard.png)
+
+## 📌 How to Use This Repository
+
+1. Clone this repo:  
+   ```bash
+   git clone https://github.com/liovirgilda/retail_store_sales_powerbi.git
+   ```
+2. Open the `.pbix` file in Power BI Desktop.
+3. Update the data source path if needed.
+4. Explore, customize, or publish the dashboard to Power BI Service.
+
+## 🧠 Learning Outcomes
+
+- Learned to clean and update data fields using Power Query
+- Built measures using DAX
+- Designed interactive dashboards optimized for decision-making
+
+## 🙋‍♀️ Contact
+
+**Liovirgilda M**  
+_Data Analytics Student_  
+🔗 [LinkedIn](https://www.linkedin.com/in/liovirgilda/) | [GitHub](https://github.com/liovirgilda)
